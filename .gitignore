@@ -27,6 +27,12 @@ Desktop.ini
 *~
 *.bak
 
+# === Obsidian (config locale/per-utente del vault) ===
+vault/.obsidian/workspace.json
+vault/.obsidian/workspace-mobile.json
+vault/.obsidian/cache
+.trash/
+
 # === Dipendenze (se in futuro userai Composer/npm) ===
 /vendor/
 /node_modules/
