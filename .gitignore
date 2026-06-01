@@ -1,0 +1,35 @@
+# === Segreti / config locale (MAI su git) ===
+.cursor/mcp.json
+.claude/settings.local.json
+*.env
+.env
+.env.*
+
+# === Log e file temporanei PHP ===
+*.log
+error_log
+php_errorlog
+*.tmp
+*.cache
+
+# === File di sistema OS ===
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+.DS_Store?
+._*
+
+# === Editor / IDE ===
+.vscode/
+*.swp
+*.swo
+*~
+*.bak
+
+# === Dipendenze (se in futuro userai Composer/npm) ===
+/vendor/
+/node_modules/
+composer.phar
+
+# NOTA: assets/ (immagini, loghi, font, favicon) restano TRACCIATI di proposito.

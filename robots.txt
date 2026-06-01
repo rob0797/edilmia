@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Disallow: /components/
+Disallow: /pages/
+
+Sitemap: https://www.edilmiadigiannimarcon.it/sitemap.xml
